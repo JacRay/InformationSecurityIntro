@@ -1,0 +1,18 @@
+1) Principle of Minimizing Secret:
+    Security of a system shouldn't be entirely dependent on its implementation not being seen by others(Secrecy)
+
+2) Principle of Complete Mediation:
+    Access to system should be checked in all access point
+
+3) Principle of Fail-Safe Defaults:
+    If a system fails the defaults should be Safe
+    (Example: If a firewall fails it sholud block all traffic other than allowing all traffic)
+
+4) Principle of Least Privilege:
+    A person or a process should only have the minimum permission they need to perfrom a task.
+
+5) Principle of Economy of Mechanism:
+    Make it simple stupid(Complex function more bugs)
+
+6) Principle of Least Common Mechanism:
+    Avoid shared resources to avoid Dos
