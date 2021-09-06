@@ -1,3 +1,7 @@
 Ethics is what morally right
-Leagal is what the law says 
+Legal is what the law says 
 There are grey areas of between these two
+For Example:
+If a goverment hack a system in order to arrest criminal it is legal but is it ethical.
+
+A person releasing white worm to patch bug. 

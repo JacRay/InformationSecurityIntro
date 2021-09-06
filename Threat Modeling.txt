@@ -1,0 +1,13 @@
+Assets: Are data,personnel, devices, system, and facilites 
+that enables the organazation to achive its goal
+
+Threat: It is any potenial occurance or malicious or activity
+that can have a adverse effect on Assets
+
+Vulnerablity: Some characterstic that can makes it possible 
+for a Threat to occurance
+
+Attack : Action that involves exploitation of Vulnerablity 
+in order to cause an existing threat to occur
+
+Threat trees : list of threats(Mechanism through an attacker can approach)
